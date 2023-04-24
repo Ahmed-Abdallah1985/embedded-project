@@ -1,0 +1,5 @@
+ROOT=.
+TARGET=KL25Z
+TARGET_CODE=0200
+DEVICE_ID[/home/studio/workspace/embedded project ]=02000203AE5DCE5C53A133A4
+DEVICE_TYPE[/home/studio/workspace/embedded project ]=connected
